@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Device specs"
+        android:id="@+id/devices_specs"/>
+    <item android:title="Apps find"
+        android:id="@+id/apps_find"/>
+</menu>
